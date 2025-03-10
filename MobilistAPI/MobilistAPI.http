@@ -1,0 +1,6 @@
+@MobilistAPI_HostAddress = http://localhost:5119
+
+GET {{MobilistAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
